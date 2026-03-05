@@ -1,7 +1,7 @@
 # Dockerise-Make-My-Trip
 
-To “Dockerise” a MakeMyTrip-like app (a travel booking web app) you package the application and its dependencies into Docker containers so it can run anywhere consistently. Below is a simple example using a typical stack:
-
+✈️ Dockerise-Make-My-Trip
+A full-stack travel booking web application containerised using Docker and orchestrated with Docker Compose. This project demonstrates a modern MERN-style application deployment using containerisation for consistent environments.
 A full-stack travel booking web application containerised using Docker and orchestrated with Docker Compose.
 The project demonstrates how to build and deploy a modern MERN-style application using containerisation.
 
