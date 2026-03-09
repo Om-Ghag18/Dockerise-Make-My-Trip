@@ -12,3 +12,13 @@ A full-stack Travel Booking Application built using Node.js, Express, React, and
   * Backend – Node.js + Express REST API
   * Database – MongoDB
 All services run inside Docker containers.
+
+* Frontend (React)
+        │
+        │ API Calls
+        ▼
+* Backend (Node.js + Express)
+        │
+        │ Database Queries
+        ▼
+* MongoDB
