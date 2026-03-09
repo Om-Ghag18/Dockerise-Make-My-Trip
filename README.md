@@ -8,8 +8,7 @@ A full-stack Travel Booking Application built using Node.js, Express, React, and
 🏗️ Architecture
 
 * The project follows a 3-tier architecture:
-
-* Frontend – React application
-* Backend – Node.js + Express REST API
-* Database – MongoDB
+  * Frontend – React application
+  * Backend – Node.js + Express REST API
+  * Database – MongoDB
 All services run inside Docker containers.
